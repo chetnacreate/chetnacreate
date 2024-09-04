@@ -1,13 +1,12 @@
-### Hi there, I'm Chetna - aka [chetnacreate][https://chetna-portfolio.netlify.app/] 👋
+### Hi there, I'm Chetna - aka [chetnacreate]👋
 
-## I'm an Engineering Student At Indira Gandhi Delhi Technical University for Women
+## I'm a Senior Associate at Morgan Stanley
 ## I'm a Daughter, Developer, and Bloger!!
 
-- 🔭 I just started my first Blog: [Your Bestiee][https://yourbestiee.blogspot.com/]!
-- 🌱 I’m currently Working as Intern at Cognizant 
+- 🔭 I just started my first Blog: [Your Bestiee][https://yourbestiee.blogspot.com/]! 
 - 👯 I’m looking to work on more excited projects.
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw, dancing and singing 🤣
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love travelling 🤣
 
 ### Connect with me:
 
@@ -51,7 +50,7 @@
 
 
 
-[website]: https://chetna-portfolio.netlify.app/
+
 [course]: https://yourbestiee.blogspot.com/
 [instagram]: https://www.instagram.com/aaaishuu/
 [linkedin]: https://www.linkedin.com/in/chetna-maurya-5656061a3/
