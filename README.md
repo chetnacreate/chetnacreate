@@ -1,11 +1,11 @@
 ### Hi there, I'm Chetna - aka [chetnacreate]👋
 
-## I'm a Senior Associate at Morgan Stanley
+## I'm a Associate at Morgan Stanley
 ## I'm a Daughter, Developer, and Bloger!!
 
 - 🔭 I just started my first Blog: [Your Bestiee][https://yourbestiee.blogspot.com/]! 
 - 👯 I’m looking to work on more excited projects.
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love travelling 🤣
 
 ### Connect with me:
