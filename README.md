@@ -1,6 +1,6 @@
 ### Hi there, I'm Chetna - aka [chetnacreate]👋
 
-## I'm a Associate at Morgan Stanley
+## I'm a Software Developer with 3 years of Experience in Morgan Stanley
 ## I'm a Daughter, Developer, and Bloger!!
 
 - 🔭 I just started my first Blog: [Your Bestiee][https://yourbestiee.blogspot.com/]! 
@@ -17,6 +17,11 @@
 <br />
 
 ### Projcts:
+- (Contextual-News-Summary) - AI-Enhanced News Backend System- Developed a robust backend system that delivers intelligent news article retrieval and enrichment. The system supports multiple endpoints—/category, /source, /score, /nearby, and /search—to organize and serve news from a preloaded database. It leverages a large language model (LLM) to:
+Interpret user queries and extract intent (e.g., topic, location, source preference)
+Retrieve and rank relevant articles based on extracted intent and user proximity
+Enrich articles with AI-generated summaries, key entities, and metadata
+The system outputs clean, structured JSON responses, providing users with titles, sources, locations, and LLM-enhanced content for a more insightful and personalized news experience.
 - (One to One Chat Application)- One to One Chat Application in a single  System in JAVA using Swing (JPannel ,JButton, JTextArea, JTextField and JFrame Class) , Socket and ServerSocket , DataInputStream and DataOutPutStream , java.awt.event.*(library for ActionListener Class)for Local Server and Client.[https://github.com/chetnacreate/Java_Chat-Program/tree/master/ChattingApplication/src/chatting]
 - (COVID -19 Tracker Application )-   A Corona Tracker which will provide you the current status using react with addition of Chart.js, Material UI and many modules This project is going to fetch the live data from the API using Async/Await syntax.[https://drive.google.com/drive/folders/1rwMvRkLNj1tGdSxupcSmCHbxQjHl1C_7?usp=sharing]
 - (Recognition using KNN -  Algorithm fashion mnist and mnist data sets)   - Fashion recognition  and number recognition   using fashion  mnist and mnist  data  sets on basis of pixels to  help  ecommerce vender for better similar clothes using machine learning, data analysis, python, KNN algorithm
@@ -25,10 +30,14 @@
 
 <br />
 
-### Languages and Tools:
-- Web Development - HTML3, CSS5, Java Script, React.js, Node.js, Bootstrap.
-- Languages - •Programming Core Java (Proficient) , C++ (Beginners) , Python , C#.
-- Course Work:  ADA , RDBMS , OOPs , DS -ALGO,  C  , OS, Discrete Mathematics ,  Git ,  My SQL 8.0 ,Adobe PhotoShop , Eclipse , Dev C++ , Brackets , Express , Node Js , NPM ,  MONGODB, Data Science, AI ,Software Engineering , Cloud Computing.                                                  
+### Languages And Tools: 
+Java (Spring Boot), Python, JavaScript, Shell Scripting|
+Data & Storage: MySQL, MongoDB, Redis, AWS S3
+Messaging & Orchestration: Apache Kafka, Job Orchestration, Scheduling, Autosys
+Observability: Grafana, Prometheus, Loki, Fluent Bit
+CI/CD & Deployment:: Jenkins, Git, CI/CD, SDLC, Linux, Gradle
+Alerting & Incident Mgmt: ServiceNow, PagerDuty
+Additional:  GenAI (LLM integration), Linux, NFS, VMware (vCenter)                                              
 
 <br />
 <br />
