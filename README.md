@@ -21,7 +21,7 @@
 Interpret user queries and extract intent (e.g., topic, location, source preference)
 Retrieve and rank relevant articles based on extracted intent and user proximity
 Enrich articles with AI-generated summaries, key entities, and metadata
-The system outputs clean, structured JSON responses, providing users with titles, sources, locations, and LLM-enhanced content for a more insightful and personalized news experience.
+The system outputs clean, structured JSON responses, providing users with titles, sources, locations, and LLM-enhanced content for a more insightful and personalized news experience. [https://github.com/chetnacreate/Contextual_News/tree/main]
 - (One to One Chat Application)- One to One Chat Application in a single  System in JAVA using Swing (JPannel ,JButton, JTextArea, JTextField and JFrame Class) , Socket and ServerSocket , DataInputStream and DataOutPutStream , java.awt.event.*(library for ActionListener Class)for Local Server and Client.[https://github.com/chetnacreate/Java_Chat-Program/tree/master/ChattingApplication/src/chatting]
 - (COVID -19 Tracker Application )-   A Corona Tracker which will provide you the current status using react with addition of Chart.js, Material UI and many modules This project is going to fetch the live data from the API using Async/Await syntax.[https://drive.google.com/drive/folders/1rwMvRkLNj1tGdSxupcSmCHbxQjHl1C_7?usp=sharing]
 - (Recognition using KNN -  Algorithm fashion mnist and mnist data sets)   - Fashion recognition  and number recognition   using fashion  mnist and mnist  data  sets on basis of pixels to  help  ecommerce vender for better similar clothes using machine learning, data analysis, python, KNN algorithm
